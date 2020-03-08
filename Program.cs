@@ -16,7 +16,7 @@ namespace Csharp_Returning_Value
         {
             //The value of radius is initilized
             int radius=5;
-            //Function call
+            //Here method can be assigned to variable
             double result = returningtest(radius);
             Console.WriteLine("Area is  {0}", result);
 
